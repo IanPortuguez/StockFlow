@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="42" viewBox="0 0 400 84">
+<g fill="none" stroke="#2563eb" stroke-width="7" stroke-linejoin="miter">
+<path d="M40 4 76 40 40 76 4 40Z"/>
+<path d="M40 16 64 40 40 64 16 40Z"/>
+</g>
+<path d="m27 42 10 10 19-24" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+<text x="88" y="57" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" font-size="54" fill="#2563eb" textLength="310" lengthAdjust="spacingAndGlyphs">StockFlow</text>
+</svg>

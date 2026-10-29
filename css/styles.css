@@ -1,0 +1,30 @@
+:root {
+    --background: #dee0e3c2;
+    --text: #17243B;
+    --blue: #2563EB;
+    --violet: #7C3AED;
+
+    --primary-gradiant: linear-gradient(
+        135deg, 
+        #2563EB,
+        #7C3AED, 
+        #A855F7);
+
+    --secondary-gradiant: linear-gradient(
+        135deg, 
+        #06B6D4, 
+        #6366F1);
+
+}
+
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--background);
+}
